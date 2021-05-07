@@ -1,0 +1,21 @@
+and the actltvldtl9es are represented by mathematldcal functl9ons 1hat lvnterreK1ate Lhe 
+varldablesw 
+A second dl9stlwnctl4on wldll be between statlac models and dynamlac m0delesw 
+models can onIy show the values that system attrl9butes take when the system lds 1dn 
+balance4 Dynam1wc models1 on the other hand1 follow the changes over tlwme that 
+result from the system actlwvlwtlwes4 
+In the case ormathematltcal modcls1 a thl4rd dl4stlwnctl4on lws the technlwque by whlwch 
+the model lts solved1 that 14s1 actual values are assl9gned to system zttrlwbutes4 A 
+dlMstldnctlwon 14s made between analytlmcal and numerlRcal methovdsw ApplylMng analytlMcal 
+technldques means uslMng the deductldve rezsonlwng of mathematldcal theory to sNolve aK 
+modeld In practlwce1 only certalwn forms of equatlwons can be solved9 Usltng anaklytl4czl 
+technlwques1 therefore1 lws a matter of Qndldng the model that can be solved and bejst 
+Qts the system bel4ng studldedt For example1 ll4near dlpTerentlwal equatlwons can be 
+solyedw Knowldng thlws1 an englaneer who restrl9cts the descrlRptl9on of a system to that 
+form wlMll derlMve a model that can be solved analytl4cally4 
+Numer14cal methods lmnvoAlve applyldng computatl4onal proce9dures4 to solve 
+equatlwonsm To be strlwctly accurate1 any asslMgnment of numerl4cal values that uses 
+mathematlwcal tables lwnvolves numer14cal methods1 slwnce tables are derl9ved numerw 
+lmwllym The dlmstlmnct1won belwng drawn here lws that analytl4cal methods produce soluw 
+wdns lmn tractable form1 meanl9ng a form where values can be asslwgned from aval4lable 
+ubww Maklmng use of an analNa1tlMcal solutlmon may1 l9n fact1 requltre a consltderaKble 
